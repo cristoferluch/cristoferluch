@@ -13,7 +13,8 @@
 <p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Back-End and Front-End<br></p>
 
 ###
-###
+<br>
+
 
 <div align="center">
   <a href="https://github.com/cristoferluch">
@@ -38,6 +39,4 @@
   <a href="https://www.linkedin.com/in/cristofer-luchtenberg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img href="https://raw.githubusercontent.com/cristoferluch/cristoferluch/blob/output/snake.svg" alt="Snake animation" />
 
-###
