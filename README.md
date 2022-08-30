@@ -1,6 +1,19 @@
-## Olá! Eu sou o Cristofer Luchtenberg
+<h1 align="left">Hey 👋 What's up?</h1>
 
-👨‍🎓 Estudante Back-End e Front-End
+###
+
+<p align="left">My name is Cristofer Luchtenberg and I am a developer!</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Back-End and Front-End<br></p>
+
+###
+###
 
 <div align="center">
   <a href="https://github.com/cristoferluch">
@@ -25,3 +38,7 @@
   <a href = "mailto:cristof3r.dk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cristofer-luchtenberg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<img href="https://raw.githubusercontent.com/cristoferluch/cristoferluch/blob/output/snake.svg" alt="Snake animation" />
+
+###
