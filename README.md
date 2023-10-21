@@ -17,7 +17,6 @@
 
 <div align="center">
   <a href="https://github.com/cristoferluch">
-
 </div>
 
 <div style="display: inline_block" align="center"><br>
