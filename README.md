@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7604d9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7604D9&size=35&size=24&pause=5000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Cristofer+Luchtenberg;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFFFF&size=35&size=24&pause=5000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Cristofer+Luchtenberg;)](https://git.io/typing-svg)
 
 <br>
 
