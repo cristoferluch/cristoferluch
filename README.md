@@ -4,15 +4,18 @@
 
 <br>
 
+* 🌍  I'm based in Brazil
 * ✉️  You can contact me at [cristof3r.dk@gmail.com](mailto:cristof3r.dk@gmail.com)
 * 🚀  I'm currently working on [Steam Badge Viewer](http://https://steam-badge-viewer.onrender.com/)
-* 🧠  I'm learning Python and React
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Projects
+* ⚡  I Am Guts, Tell Everyone
 
 
 <h3 align="center">Skills</h3>
 
 <div align="center" style="display: inline_block">
+  <img align="center" alt="Cris-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,6 +23,7 @@
   <img align="center" alt="Cris-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Cris-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
   <img align="center" alt="Cris-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Cris-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 
 <br>
