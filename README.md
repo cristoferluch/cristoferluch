@@ -6,7 +6,7 @@
 
 * ✉️  You can contact me at [cristof3r.dk@gmail.com](mailto:cristof3r.dk@gmail.com)
 * 🚀  I'm currently working on [Steam Badge Viewer](http://https://steam-badge-viewer.onrender.com/)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python and React
 * 🤝  I'm open to collaborating on Projects
 
 
@@ -27,10 +27,6 @@
 <div align="center">
   <a href="https://github.com/cristoferluch/github-readme-stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristoferluch&layout=compact&theme=tokyonight" />
-  </a>
-  <a>
-    <img witdh="100px"/>
-
   </a>
   <a href="https://github.com/cristoferluch/convoychat">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=cristoferluch&show_icons=true&theme=tokyonight&rank_icon=github" />
