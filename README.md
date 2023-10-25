@@ -7,7 +7,7 @@
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [cristof3r.dk@gmail.com](mailto:cristof3r.dk@gmail.com)
 * 🚀  I'm currently working on [Steam Badge Viewer](https://steam-badge-viewer.onrender.com/)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python and React
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Guts, Tell Everyone
 
