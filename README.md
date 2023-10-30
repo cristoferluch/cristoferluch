@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFFFF&size=35&size=24&pause=5000&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Cristofer+Luchtenberg;)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=cristoferluch&color=blueviolet)
+
 <br>
 
 * 🌍  I'm based in Brazil
